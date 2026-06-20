@@ -1,6 +1,6 @@
 
 # 🍱 Local Food Wastage Management System
-
+## Project link https://local-food-management-system-bjnx7ozmgge2srttn6d7mr.streamlit.app/
 ## 📌 Project Overview
 
 The **Local Food Wastage Management System** is a data-driven web application developed using **Python, MySQL, and Streamlit** to reduce food wastage by connecting food providers with individuals and organizations in need.
